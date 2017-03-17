@@ -145,10 +145,11 @@
               "color": "#b8312f"
             },
             ".mbr-section-lead P": {
-              "color": "#b8312f",
+              "color": "#d14841",
               "font-family": "'Bitter', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
-              "font-size": "21px"
+              "font-size": "21px",
+              "text-align": "center"
             }
           },
           "_anchor": "header1-1",
@@ -172,7 +173,7 @@
             "showButtons": false
           },
           "title": "",
-          "text": "<p><span style=\"font-style: normal;\"><b>&nbsp;&nbsp;&nbsp;&nbsp;[after supposedly stabbing Sgt. Angel, Danny is waving a sachet of tomato ketchup]</b></span></p><span style=\"font-style: normal;\"><b><br></b></span><p><span style=\"font-style: normal;\"><b><br>Danny Butterman: Ta-daaa!<br>Nicholas Angel: Danny, this is murder.<br>Danny Butterman: It's not murder, it's ketchup.</b></span><br></p>",
+          "text": "<p><b><span style=\"font-style: normal;\">&nbsp;&nbsp;&nbsp;&nbsp;</span>[after supposedly stabbing Sgt. Angel, Danny is waving a sachet of tomato ketchup]</b></p><b><br></b><p><b><br>Danny Butterman: Ta-daaa!<br>Nicholas Angel: Danny, this is murder.<br>Danny Butterman: It's not murder, it's ketchup.</b><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {

@@ -485,9 +485,10 @@ h6,
   color: #b8312f;
 }
 #header1-1 .mbr-section-lead P {
-  color: #b8312f;
+  color: #d14841;
   font-family: 'Bitter', serif;
   font-size: 21px;
+  text-align: center;
 }
 #form1-f .form-control-label {
   color: #232323;
