@@ -46,7 +46,9 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -143,7 +145,10 @@
               "color": "#b8312f"
             },
             ".mbr-section-lead P": {
-              "color": "#f28281"
+              "color": "#b8312f",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "21px"
             }
           },
           "_anchor": "header1-1",
@@ -167,7 +172,7 @@
             "showButtons": false
           },
           "title": "",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;<b>[after supposedly stabbing Sgt. Angel, Danny is waving a sachet of tomato ketchup]<br>Danny Butterman: Ta-daaa!<br>Nicholas Angel: Danny, this is murder.<br>Danny Butterman: It's not murder, it's ketchup.</b><br></p>",
+          "text": "<p><span style=\"font-style: normal;\"><b>&nbsp;&nbsp;&nbsp;&nbsp;[after supposedly stabbing Sgt. Angel, Danny is waving a sachet of tomato ketchup]</b></span></p><span style=\"font-style: normal;\"><b><br></b></span><p><span style=\"font-style: normal;\"><b><br>Danny Butterman: Ta-daaa!<br>Nicholas Angel: Danny, this is murder.<br>Danny Butterman: It's not murder, it's ketchup.</b></span><br></p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {

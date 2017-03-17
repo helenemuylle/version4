@@ -6,6 +6,8 @@
 
 
 
+
+
 body,
 input,
 textarea,
@@ -418,6 +420,7 @@ h6,
 }
 #menu-0 .navbar-caption {
   color: #ffffff;
+  font-family: 'Bitter', serif;
 }
 #menu-0 .navbar-toggler {
   color: #ffffff;
@@ -482,7 +485,9 @@ h6,
   color: #b8312f;
 }
 #header1-1 .mbr-section-lead P {
-  color: #f28281;
+  color: #b8312f;
+  font-family: 'Bitter', serif;
+  font-size: 21px;
 }
 #form1-f .form-control-label {
   color: #232323;
